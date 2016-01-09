@@ -1,0 +1,24 @@
+{
+  "name": "dep4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmeydac/dep4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmeydac/dep4/issues"
+  },
+  "homepage": "https://github.com/hmeydac/dep4#readme",
+  "dependencies": {
+    "dep1": "github:hmeydac/dep1#2.0.0",
+    "dep2": "github:hmeydac/dep2#1.0.1",
+    "dep3": "github:hmeydac/dep3#1.0.0"
+  }
+}
