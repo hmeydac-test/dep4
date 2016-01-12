@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hmeydac/dep4#readme",
   "dependencies": {
-    "dep1": "github:hmeydac/dep1#2.0.0",
+    "dep1": "git://github.com/hmeydac-test/dep1#2.0.0",
     "dep2": "github:hmeydac/dep2#1.0.1",
     "dep3": "github:hmeydac/dep3#1.0.0"
   }
